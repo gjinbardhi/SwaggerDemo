@@ -54,7 +54,7 @@ dotnet test --collect:"XPlat Code Coverage"
 ```
 
 * Results in `TestResults/*/coverage.cobertura.xml`
-* Aim: ≥50% line coverage.
+* Aim: ≥50% line coverage.i only got to 22%
 
 
 ## Project Structure
