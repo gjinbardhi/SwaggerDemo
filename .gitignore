@@ -1,0 +1,47 @@
+# Build outputs
+**/bin/
+**/obj/
+
+# User-specific files
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Rider
+.idea/
+
+# VS Code
+.vscode/
+
+# Logs
+logs/
+*.log
+
+# Coverage results
+test-results/
+coverage.* 
+*.coverage
+*.coveragexml
+coverage.opencover.xml
+coverage.cobertura.xml
+
+# NuGet and package caches
+*.nupkg
+*.snupkg
+packages/
+.nuget/
+project.lock.json
+project.fragment.lock.json
+
+# Dotnet publish
+publish/
+
+# EF Core Migrations
+**/Migrations/
+
+# Docker
+docker-compose.override.yml
+
+# IIS Express
+/.vs/
